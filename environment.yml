@@ -1,0 +1,5 @@
+name: kaplan-meier
+channels:
+  - defaults
+prefix: /opt/miniconda3/envs/kaplan-meier
+
